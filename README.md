@@ -1,6 +1,6 @@
-# expensepadi
+# Expense Padi
 
-A new Flutter project.
+An app that helps users monitor their expenses
 
 ## Getting Started
 
